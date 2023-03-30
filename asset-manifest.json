@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.4956e7c4.js",
+    "main.js": "/static/js/main.68aba370.js",
     "static/media/wallpaper.jpg": "/static/media/wallpaper.0d8d8a28b7ec8774962e.jpg",
     "static/media/survey-illustration.jpg": "/static/media/survey-illustration.c14c1492ae68f57f9349.jpg",
     "static/media/survey-illustration.png": "/static/media/survey-illustration.60f1edb9cb863906f757.png",
     "static/media/Logo.png": "/static/media/Logo.6302d08e21b72887f80b.png",
     "index.html": "/index.html",
     "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.4956e7c4.js.map": "/static/js/main.4956e7c4.js.map"
+    "main.68aba370.js.map": "/static/js/main.68aba370.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.4956e7c4.js"
+    "static/js/main.68aba370.js"
   ]
 }
